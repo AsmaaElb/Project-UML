@@ -72,7 +72,7 @@ Suppression de Propriétés
  ![evaluation](https://github.com/AsmaaElb/Project-UML/assets/95230194/55126af3-a976-4cb2-95ce-fed7073510b7)
 6 Conclusion 
 
-En résumé, le projet UML Airbnb fournit une représentation structurée et complète du système de réservation d'hébergement. Cette modélisation offre une base solide pour concevoir, développer et mettre en place une plateforme de réservation fiable, bien organisée et conviviale pour les utilisateurs.
+En résumé,le projet UML Airbnb fournit une représentation structurée et complète du système de réservation d'hébergement. Cette modélisation offre une base solide pour concevoir, développer et mettre en place une plateforme de réservation fiable, bien organisée et conviviale pour les utilisateurs.
 
 
 
