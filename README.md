@@ -31,7 +31,7 @@ Disponibilité: Haute disponibilité (24/7)
 3. Acteurs du Système
 
 3.1 Utilisateurs
-Locataires: Recherchent et réservent des logements.
+L'acteur principale Locataire: Recherche et réserve des logements.
 Propriétaires: Gèrent leurs propriétés et confirment les réservations.
 Administrateurs: Surveillent et gèrent le système.
 
@@ -53,16 +53,27 @@ Ajout de Propriétés
 Modification de Propriétés
 Suppression de Propriétés
 
-5. Diagrammes de Cas d'Utilisation
+5. Analyse et Conception 
 
-5.1 Cas d'Utilisation pour les Locataires
-Rechercher un Logement
-Réserver un Logement
-Consulter l'Historique des Réservations
+5.1 Cas d'Utilisation 
+![usecaseairbnb](https://github.com/AsmaaElb/Project-UML/assets/95230194/6130abad-a38b-42de-8bd3-fdc6dc8c1606)
+5.2 Diagramme de classe
+![classdiagram](https://github.com/AsmaaElb/Project-UML/assets/95230194/606053d1-bbb9-4573-9ab1-f5a77bcefc4c)
+5.3 Diagramme de séquence 
+ 5.3.1 Reherche d'un logement 
+ ![recherche](https://github.com/AsmaaElb/Project-UML/assets/95230194/f69c6747-1e04-4692-8824-e5ebc193f65c)
 
-5.2 Cas d'Utilisation pour les Propriétaires
-Ajouter un Logement
-Gérer les Réservations
-Consulter les Statistiques
-![usecaseairbnb](https://github.com/AsmaaElb/Project-UML/assets/95230194/8d887381-78b5-4963-adbb-9641618cca36)
+ 5.3.2 Réservation d'un logement 
+ ![réserv](https://github.com/AsmaaElb/Project-UML/assets/95230194/af52d185-e2cf-42df-b3ff-cc0cb3c4fcd9)
+ 5.3.3 Paiement d'un logement
+ ![paiment](https://github.com/AsmaaElb/Project-UML/assets/95230194/38c0c4a2-d549-4498-9a59-6d7a1a2ffa3c)
+
+ 5.3.4 Evaluaion d'u logement 
+ ![evaluation](https://github.com/AsmaaElb/Project-UML/assets/95230194/55126af3-a976-4cb2-95ce-fed7073510b7)
+6 Conclusion 
+
+En résumé, le projet UML Airbnb fournit une représentation structurée et complète du système de réservation d'hébergement. Cette modélisation offre une base solide pour concevoir, développer et mettre en place une plateforme de réservation fiable, bien organisée et conviviale pour les utilisateurs.
+
+
+
 
