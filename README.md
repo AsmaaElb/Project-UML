@@ -76,31 +76,33 @@ Le diagramme de cas d'utilisation identifie et représente les différents scén
 
 ![usecaseairbnb](https://github.com/AsmaaElb/Project-UML/assets/95230194/6130abad-a38b-42de-8bd3-fdc6dc8c1606)
 
-5.2 Diagramme de classe
+5.2 Diagramme de séquence
+
+Le diagramme de séquence permet d'illustrer les interactions dynamiques entre les différents acteurs de l'application Airbnb lors de l'exécution d'un scénario spécifique. Ce diagramme séquentiel détaillera l'ordre chronologique des interactions, offrant une compréhension approfondie du flux d'exécution du système.
+
+ 5.2.1 Recherche d'un logement 
+ 
+ ![recherche](https://github.com/AsmaaElb/Project-UML/assets/95230194/f69c6747-1e04-4692-8824-e5ebc193f65c)
+
+ 5.2.2 Réservation d'un logement 
+ 
+ ![réserv](https://github.com/AsmaaElb/Project-UML/assets/95230194/af52d185-e2cf-42df-b3ff-cc0cb3c4fcd9)
+ 
+ 5.2.3 Paiement d'un logement
+ 
+ ![paiment](https://github.com/AsmaaElb/Project-UML/assets/95230194/38c0c4a2-d549-4498-9a59-6d7a1a2ffa3c)
+
+ 5.2.4 Evaluaion d'u logement 
+ 
+ ![evaluation](https://github.com/AsmaaElb/Project-UML/assets/95230194/55126af3-a976-4cb2-95ce-fed7073510b7)
+
+5.3 Diagramme de classe
 
 Le diagramme de classe offre une représentation visuelle des entités et de leurs relations au sein de l'application Airbnb. Les classes telles que "Utilisateur", "Résevation", "Paiement" et "Propriété" seront identifiées, avec leurs attributs et méthodes respectifs. Les relations entre ces classes, telles que les associations et les héritages, seront clairement définies pour assurer une modélisation précise de la structure du système.
 
 ![classdiagram](https://github.com/AsmaaElb/Project-UML/assets/95230194/606053d1-bbb9-4573-9ab1-f5a77bcefc4c)
 
-5.3 Diagramme de séquence
 
-Le diagramme de séquence permet d'illustrer les interactions dynamiques entre les différents acteurs de l'application Airbnb lors de l'exécution d'un scénario spécifique. Ce diagramme séquentiel détaillera l'ordre chronologique des interactions, offrant une compréhension approfondie du flux d'exécution du système.
-
- 5.3.1 Recherche d'un logement 
- 
- ![recherche](https://github.com/AsmaaElb/Project-UML/assets/95230194/f69c6747-1e04-4692-8824-e5ebc193f65c)
-
- 5.3.2 Réservation d'un logement 
- 
- ![réserv](https://github.com/AsmaaElb/Project-UML/assets/95230194/af52d185-e2cf-42df-b3ff-cc0cb3c4fcd9)
- 
- 5.3.3 Paiement d'un logement
- 
- ![paiment](https://github.com/AsmaaElb/Project-UML/assets/95230194/38c0c4a2-d549-4498-9a59-6d7a1a2ffa3c)
-
- 5.3.4 Evaluaion d'u logement 
- 
- ![evaluation](https://github.com/AsmaaElb/Project-UML/assets/95230194/55126af3-a976-4cb2-95ce-fed7073510b7)
 
  
 6 Conclusion 
