@@ -71,13 +71,20 @@ Suppression de Propriétés
 
 5.1 Cas d'Utilisation 
 
+Le diagramme de cas d'utilisation identifie et représente les différents scénarios ou fonctionnalités offerts par l'application Airbnb du point de vue de l'utilisateur. Des cas d'utilisation tels que "Réséver un logement", "Rechercher une destination" et "Choisir un logement" seront explicitement définis, avec des acteurs associés tels que les utilisateurs . Ce diagramme servira de base pour comprendre les besoins fonctionnels de l'application et guider le processus de développement.
+
+
 ![usecaseairbnb](https://github.com/AsmaaElb/Project-UML/assets/95230194/6130abad-a38b-42de-8bd3-fdc6dc8c1606)
 
 5.2 Diagramme de classe
 
+Le diagramme de classe offre une représentation visuelle des entités et de leurs relations au sein de l'application Airbnb. Les classes telles que "Utilisateur", "Résevation", "Paiement" et "Propriété" seront identifiées, avec leurs attributs et méthodes respectifs. Les relations entre ces classes, telles que les associations et les héritages, seront clairement définies pour assurer une modélisation précise de la structure du système.
+
 ![classdiagram](https://github.com/AsmaaElb/Project-UML/assets/95230194/606053d1-bbb9-4573-9ab1-f5a77bcefc4c)
 
 5.3 Diagramme de séquence
+
+Le diagramme de séquence permet d'illustrer les interactions dynamiques entre les différents acteurs de l'application Airbnb lors de l'exécution d'un scénario spécifique. Ce diagramme séquentiel détaillera l'ordre chronologique des interactions, offrant une compréhension approfondie du flux d'exécution du système.
 
  5.3.1 Recherche d'un logement 
  
