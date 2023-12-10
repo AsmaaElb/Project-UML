@@ -64,3 +64,5 @@ Consulter l'Historique des Réservations
 Ajouter un Logement
 Gérer les Réservations
 Consulter les Statistiques
+![usecaseairbnb](https://github.com/AsmaaElb/Project-UML/assets/95230194/8d887381-78b5-4963-adbb-9641618cca36)
+
